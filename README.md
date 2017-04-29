@@ -2,7 +2,7 @@ python segmenter/manager.py --train data/splits/train1 --dev data/splits/dev1 --
 
 Codebase used for the following publications:
 
-1) Ryan Cotterell, Arun Kumar and Hinrich Schütze. Morphological Segmentation Inside-Out.
+1) Ryan Cotterell, Arun Kumar and Hinrich Schütze. Morphological Segmentation Inside-Out. EMNLP 2016.
 
 2) Ryan Cotterell and Hinrich Schütze. Joint Semantic Synthesis and Morphological Analysis of the Derived Word. TACL. 2017. arXiv
 
